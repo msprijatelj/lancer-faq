@@ -365,6 +365,11 @@ Sympathetic Shield should have the Unique tag. <wot:426288556902842368/976440526
 
 No, the change to the Bolt Nexus' profile is meant to occur after the initial attack resolves fully. The first attack against a target does the base 1 damage, then successive attacks with it gain the benefits of the enhanced profile. <wot:426288556902842368/976958186630303784>
 
+## Karrakin Trade Baronies Page 138, Intangible
+### Does the Intangible status make Intangible characters invalid targets for tangible characters (and vice versa) as part of its effects, or does it simply render Intangible characters immune to effects and damage caused by tangible characters and objects?
+
+Intangible characters are invalid targets for tangible characters (and vice versa).
+
 ## NPC General Rules
 ## Page 280, NPC Actions
 ### Can NPCs Stabilize? Can NPCs Invade? Can NPCs Brace? Can NPCs Overcharge?
